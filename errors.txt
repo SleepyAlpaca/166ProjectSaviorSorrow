@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label reveal is defined twice, at
+  File "game/script.rpy", line 570 and
+  File "game/script.rpy", line 1065.
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Jun 01 02:22:09 2020
